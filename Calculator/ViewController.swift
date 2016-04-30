@@ -4,6 +4,7 @@
 //
 //  Created by Cenker Demir on 4/21/16.
 //  Copyright © 2016 Cenker Demir. All rights reserved.
+//  written from the iOS9 swift course by Stanford University
 //
 
 import UIKit
